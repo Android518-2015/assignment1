@@ -1,3 +1,4 @@
 # Assignment 1 2015
 
-This is not complete, it may change, do not start with this doucment until I have completed it.
+There is a main specification + an addendum for this lab, read both, work with your team.
+
